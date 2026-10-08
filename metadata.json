@@ -1,0 +1,6 @@
+{
+  "name": "AuraStay - Global Travel Booking & Property Management",
+  "description": "Production-ready global travel booking platform and property management engine featuring dual map/list search, dynamic room inventory, verified reviews, and multi-step checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
